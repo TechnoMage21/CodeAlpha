@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the **CodeAlpha Internship Project**! This repository contains the work completed during my internship at [Company Name]. The project revolves around [brief description of the project goal, e.g., developing a containerized application, machine learning models, or a web service], designed to [goal or purpose of the project]. This project aims to showcase my ability to work with [technologies/tools used, e.g., Docker, Kubernetes, Python, etc.] while delivering high-quality software in an industry setting.
+Welcome to the **CodeAlpha Internship Project**! This repository contains the work completed during my internship at Code Alpha.This project aims to showcase my ability to work with [technologies/tools used, e.g., HTML, CSS, JS, etc.] while delivering high-quality software in an industry setting.
 
 ## Project Structure
 
